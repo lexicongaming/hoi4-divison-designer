@@ -2,7 +2,7 @@
   "name": "hoi4",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://taw.github.io/hoi4",
+  "homepage": "/hoi4/division-designer-tool",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "node-sass": "^9.0.0",
